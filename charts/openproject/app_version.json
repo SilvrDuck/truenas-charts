@@ -1,0 +1,52 @@
+{
+    "3.5.0": {
+        "healthy": true,
+        "supported": false,
+        "healthy_error": null,
+        "location": "/__w/charts/charts/charts/openproject/3.5.0",
+        "last_update": "2024-07-05 07:45:39",
+        "required_features": [
+            "normalize/acl",
+            "definitions/timezone",
+            "normalize/ixVolume"
+        ],
+        "human_version": "2024.06.0_3.5.0",
+        "version": "3.5.0",
+        "chart_metadata": {
+            "name": "openproject",
+            "description": "Project management software for teams.",
+            "annotations": {
+                "title": "OpenProject"
+            },
+            "type": "application",
+            "version": "3.5.0",
+            "apiVersion": "v2",
+            "appVersion": "2024.06.0",
+            "kubeVersion": ">=1.16.0-0",
+            "maintainers": [
+                {
+                    "name": "openproject",
+                    "url": "https://www.openproject.org/",
+                    "email": "support@openproject.com"
+                }
+            ],
+            "dependencies": [
+                {
+                    "name": "common",
+                    "repository": "file://../../../common",
+                    "version": "1.2.9"
+                }
+            ],
+            "home": "https://www.openproject.org/",
+            "icon": "https://www.openproject.org/assets/icon.svg",
+            "sources": [
+                "https://www.openproject.org/",
+                "https://github.com/opf/openproject"
+            ],
+            "keywords": [
+                "project management",
+                "collaboration"
+            ]
+        }
+    }
+}
