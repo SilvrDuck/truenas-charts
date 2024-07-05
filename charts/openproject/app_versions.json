@@ -47,6 +47,29 @@
                 "project management",
                 "collaboration"
             ]
+        },
+        "app_metadata": {
+            "capabilities": null,
+            "hostMounts": null,
+            "runAsContext": null
+        },
+        "schema": {
+            "groups": [
+                {
+                    "name": "group1",
+                    "description": "Group 1 Description"
+                }
+            ],
+            "questions": [
+                {
+                    "variable": "question1",
+                    "label": "Question 1",
+                    "group": "group1",
+                    "schema": {
+                        "type": "string"
+                    }
+                }
+            ]
         }
     }
 }
