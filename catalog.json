@@ -3,7 +3,7 @@
         "openproject": {
             "app_readme": "<h1>OpenProject</h1>\n<p><a href=\"https://www.openproject.org/\">OpenProject</a> is a comprehensive project management solution. It provides a wide range of features including task management, team collaboration, project planning, and time tracking.</p>\n<blockquote>\n<p><strong>NOTE</strong>: Make sure to review the <a href=\"https://www.openproject.org/docs/user-guide/\">official documentation</a> for detailed usage instructions and advanced features.</p>\n</blockquote>",
             "categories": [
-                "productivity",
+                "productivity"
             ],
             "description": "OpenProject is an open-source project management software.",
             "healthy": true,
