@@ -49,9 +49,9 @@
             ]
         },
         "app_metadata": {
-            "capabilities": null,
-            "hostMounts": null,
-            "runAsContext": null
+            "capabilities": [],
+            "hostMounts": [],
+            "runAsContext": []
         },
         "schema": {
             "groups": [
