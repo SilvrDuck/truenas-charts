@@ -1,0 +1,42 @@
+{
+    "charts": {
+        "openproject": {
+            "app_readme": "<h1>OpenProject</h1>\n<p><a href=\"https://www.openproject.org/\">OpenProject</a> is a comprehensive project management solution. It provides a wide range of features including task management, team collaboration, project planning, and time tracking.</p>\n<blockquote>\n<p><strong>NOTE</strong>: Make sure to review the <a href=\"https://www.openproject.org/docs/user-guide/\">official documentation</a> for detailed usage instructions and advanced features.</p>\n</blockquote>",
+            "categories": [
+                "productivity",
+            ],
+            "description": "OpenProject is an open-source project management software.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://www.openproject.org/",
+            "location": "/__w/charts/charts/charts/openproject",
+            "latest_version": "3.5.0",
+            "latest_app_version": "3.5.0",
+            "latest_human_version": "3.5.0",
+            "last_update": "2024-07-05 07:45:39",
+            "name": "openproject",
+            "recommended": true,
+            "title": "OpenProject",
+            "maintainers": [
+                {
+                    "name": "OpenProject",
+                    "url": "https://www.openproject.org/",
+                    "email": "support@openproject.com"
+                }
+            ],
+            "tags": [
+                "project management",
+                "collaboration",
+                "task management"
+            ],
+            "screenshots": [
+               "https://www.openproject.org/assets/screenshot1.png" 
+            ],
+            "sources": [
+                "https://www.openproject.org",
+                "https://github.com/opf/openproject"
+            ],
+            "icon_url": "https://www.openproject.org/assets/images/press/openproject-logo-centered-color-1923bef6.svg"
+        }
+    }
+}
